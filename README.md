@@ -1,2 +1,2 @@
-# weichienyap-web-graphql
+# weichienyap-web-api
 GraphQL for weichienyap
